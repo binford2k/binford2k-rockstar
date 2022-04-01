@@ -1,6 +1,6 @@
 require 'puppet/provider/exec'
 
-Puppet::Type.type(:exec).provide :rockstar, :parent => Puppet::Provider do
+Puppet::Type.type(:exec).provide :rockstar, :parent => Puppet::Provider::Exec do
   confine    :feature => :rockstar
   defaultfor :feature => :rockstar
 
