@@ -2,9 +2,10 @@
   "name": "binford2k-rockstar",
   "version": "0.1.0",
   "author": "binford2k",
-  "summary": "",
+  "summary": "Run Rockstar code in Puppet",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/binford2k/binford2k-rockstar",
+  "issues_url": "https://github.com/binford2k/binford2k-rockstar/issues",
   "dependencies": [
 
   ],

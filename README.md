@@ -4,7 +4,7 @@ We all know you want to take it higher and rock on. This module gives you
 a function and an `exec` provider to do just that! Write your code as hair
 metal power ballads just like the gods of rock intended.
 
-![the source of it all](tweet.png)
+![the source of it all](https://github.com/binford2k/binford2k-rockstar/raw/main/tweet.png)
 
 See the [Code with Rockstar](http://codewithrockstar.com) homepage for guidance
 on writing Rockstar code.
