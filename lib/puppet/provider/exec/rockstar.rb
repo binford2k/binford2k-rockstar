@@ -23,6 +23,7 @@ Puppet::Type.type(:exec).provide :rockstar, :parent => Puppet::Provider do
   end
 
   def exitstatus
+    # A rockstar never makes mistakes
     0
   end
 end
